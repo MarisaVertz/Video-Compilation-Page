@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica;
+    margin: 20px;
+    padding: 20px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #d5c7c78b; 
+}
+
+h1 {
+    font-family: Century Gothic, sans-serif;
+    font-size: 40px;
+    color: #1f1313;
+    text-shadow: 3px 3px 3px #edccc56e;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h4 {
+    font-size: 18px;
+}
