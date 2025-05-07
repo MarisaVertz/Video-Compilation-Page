@@ -1,7 +1,7 @@
 <h1>Video Compilation Page</h1>
 <p>In this project we had to create a video compilation page with basic HTML properties.</p>
 <a href="https://marisavertz.github.io/Video-Compilation-Page/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/Top-Movies/refs/heads/main/video-compilation-page.png" width="500">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Video-Compilation-Page/refs/heads/main/video-compilation-page.png" width="500">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Video-Compilation-Page/">
